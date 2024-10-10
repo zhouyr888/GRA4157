@@ -3,7 +3,7 @@
 from main_code import f
 
 # Call the function f with input value 5
-d0, d1, d2 = f(6) # Unpacking the results
+d0, d1, d2 = f(10) # Unpacking the results
 
 # Write the results to a file
 with open("results_file.txt", "w") as file:
