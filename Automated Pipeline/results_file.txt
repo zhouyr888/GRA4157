@@ -1,0 +1,3 @@
+10, 10, 75
+
+# A file named results_file.txt will be created in the same folder, and it will contain the output of the function.
